@@ -14,7 +14,7 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
+				<string>YoutubeIcon</string>
 			</array>
 			<key>UIPrerenderedIcon</key>
 			<true/>
